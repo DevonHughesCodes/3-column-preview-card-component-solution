@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/DevonHughesCodes/3-column-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://devonhughescodes.github.io/3-column-preview-card-component-solution/)
 
 ### Built with
 
